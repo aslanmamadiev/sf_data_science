@@ -2,7 +2,7 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/aslanmamadiev/sf_data_science/blob/main/project_0/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/aslanmamadiev/sf_data_science/blob/main/project_0/README.md#Какой-кейс-мы-решаем)  
+[2. Какой кейс решаем?](https://github.com/aslanmamadiev/sf_data_science/blob/main/project_0/README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/aslanmamadiev/sf_data_science/blob/main/project_0/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/aslanmamadiev/sf_data_science/blob/main/project_0/README.md#Этапы-работы-над-проектом)  
 [5. Результат](https://github.com/aslanmamadiev/sf_data_science/blob/main/project_0/README.md#Результат)    
@@ -15,7 +15,7 @@
 
 ---
 
-### Какой кейс мы решаем?  
+### Какой кейс решаем?  
 Нужно написать программу, которая угадывает число за минимальное число попыток.
 
 **Условия соревнования:**  
