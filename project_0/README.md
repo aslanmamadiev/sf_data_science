@@ -51,11 +51,13 @@
 ### Результат
 1. Результат работы приведён в файле game_v3.py
 2. Каждый раз при определении загаданного числа, счётчик попыток сбрасывается до 0
-3. Среднее количество попыток составляет меньше 7
+3. Среднее количество попыток составляет меньше 7  
+
 [1](https://github.com/aslanmamadiev/sf_data_science/tree/main/project_0/README.md#Описание-проекта) • [2](https://github.com/aslanmamadiev/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем) • [3](https://github.com/aslanmamadiev/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных) • [4](https://github.com/aslanmamadiev/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом) • **5** • [6](https://github.com/aslanmamadiev/sf_data_science/tree/main/project_0/README.md#Выводы)
 
 ---
 
 ### Выводы
-По итогам выполненной работы достигнуты намеченные цели: был реализован один из методов, используемых в информатике, благодаря которому удалось существенно снизить среднее количество итераций для нахождения загаданного числа.
+По итогам выполненной работы достигнуты намеченные цели: был реализован один из методов, используемых в информатике, благодаря которому удалось существенно снизить среднее количество итераций для нахождения загаданного числа.  
+
 [1](https://github.com/aslanmamadiev/sf_data_science/tree/main/project_0/README.md#Описание-проекта) • [2](https://github.com/aslanmamadiev/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем) • [3](https://github.com/aslanmamadiev/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных) • [4](https://github.com/aslanmamadiev/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом) • [5](https://github.com/aslanmamadiev/sf_data_science/tree/main/project_0/README.md#Результат) • **6**
