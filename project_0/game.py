@@ -1,3 +1,5 @@
+'''Игра Угадай число!'''
+
 import numpy as np
 
 number = np.random.randint(1, 101)
@@ -16,3 +18,4 @@ while True:
     else: 
         print(f'Вы угадали число! Это число {number}! Вам хватило {count} попыток :)')
         break
+    
